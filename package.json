@@ -1,0 +1,24 @@
+{
+  "name": "mastery-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "csv-parse": "^1.1.7",
+    "fast-csv": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dizehacioglu/mastery-tracking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dizehacioglu/mastery-tracking/issues"
+  },
+  "homepage": "https://github.com/dizehacioglu/mastery-tracking#readme"
+}
